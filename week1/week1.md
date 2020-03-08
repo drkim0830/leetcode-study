@@ -1,0 +1,3 @@
+# 1108 Defanging an IP address - 상수
+처음엔 그냥 String의 함수 replaceAll 함수를 사용하면 쉽게 해결할 수 있을 것 같았으나 `Time Limit Exceeded` 가 뜸...
+그래서 Tokenizer를 활용해서 미리 나눈 뒤에 .을 [.]으로 치환하도록 구현
