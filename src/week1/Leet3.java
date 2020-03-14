@@ -1,4 +1,4 @@
-package day0308;
+package week1;
 
 public class Leet3 {
 	public static void main(String[] args) {

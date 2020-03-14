@@ -1,4 +1,4 @@
-package day0308;
+package week1;
 
 import java.util.StringTokenizer;
 
